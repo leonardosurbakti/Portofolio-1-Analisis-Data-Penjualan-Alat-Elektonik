@@ -1,4 +1,4 @@
-# Portofolio 1: Analisis Data Penjualan Toko Elektonik
+# Portofolio 1: Analisis Data Penjualan Produsen Elektonik
 ## Latar Belakang
 Di dalam project ini, saya menggunakan Python Pandas dan Python Matplotlib untuk menganalisis dan menjawab pertanyaan bisnis tentang data penjualan suatu produsen alat eletronik selama 1 tahun. Dataset yang digunakan mengandung informasi tentang ribuan barang elektronik yang berhasil dijual oleh produsen alat eletronik di US tersebut.
 
